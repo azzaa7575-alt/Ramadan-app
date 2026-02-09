@@ -1,8 +1,7 @@
 
 import React from 'react';
 import { Moon, Star, LayoutDashboard, Settings, BookOpen, FileUp, Book } from 'lucide-react';
-import { View, AppData } from '../types';
-
+import { View, AppData } from './types';
 interface SidebarProps {
   activeView: View;
   setActiveView: (v: View) => void;
