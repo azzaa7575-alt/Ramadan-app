@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { AppData } from '../types';
+import { AppData } from './types';
 import { CheckCircle2, Star, Calendar, Moon, Zap, Trophy, Book } from 'lucide-react';
 
 interface DashboardProps {
