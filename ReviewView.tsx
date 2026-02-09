@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { WeeklyReview } from '../types';
+import { WeeklyReview } from './types';
 import { ArrowRight, MessageCircle, Heart, Zap, Coffee } from 'lucide-react';
 
 interface ReviewViewProps {
